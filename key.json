@@ -1,16 +1,10 @@
 {
-  "showDialog": true,
-  "title": "🔐 Secure Login",
-  "description": "Please login to continue using this app.",
-  "button": "LOGIN",
-  "toast": "✅ Successfully Logged In!",
-  "renewUrl": "http://t.me/Problem_Zenki,
   "devices": [
     {
       "device_id": "591a2a49ce8ca4dc",
-      "username": "Pro",
-      "password": "1122",
-      "expire_date": "2025-10-30"
+      "username": "dpmods",
+      "password": "12345",
+      "expire_date": "2025-10-20"
     },
     {
       "device_id": "abcdef9876543210",
@@ -23,6 +17,12 @@
       "username": "user",
       "password": "pass",
       "expire_date": "2026-06-01"
+    },
+    {
+      "device_id": "Pro",
+      "username": "Pro",
+      "password": "Pro",
+      "expire_date": "2025-10-29"
     }
   ]
 }
