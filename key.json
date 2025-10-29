@@ -21,6 +21,11 @@
       "device_id": "Po",
       "password": "Pol",
       "expire_date": "2025-10-29"
+    },
+    {
+      "device_id": "G",
+      "password": "G",
+      "expire_date": "2025-10-29"
     }
   ]
 }
