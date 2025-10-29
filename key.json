@@ -3,19 +3,20 @@
   "online_enable": true,
   "title": "Premium Login",
   "descriptions": [
-    "Welcome to Premium Access.",
-    "Enter your password to continue.",
-    "Make sure your device is registered."
+    "Welcome to Premium Access."
   ],
   "button_login": "Login",
   "button_admin": "Admin",
   "button_copy": "Copy ID",
-  "admin_url": "https://t.me/Problem_Zenki",
+  "admin_url": "",
   "device_section": [
     {
-      "device_id": "Pro",
+      "device_id": "P",
       "password": "Pro",
-      "expire_date": "2025-10-30"
+      "expire_date": "2025-10-29"
     }
-  ]
+  ],
+  "_meta": {
+    "saved_at": 1761754549530
+  }
 }
