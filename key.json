@@ -1,28 +1,34 @@
 {
-  "devices": [
+  "dialog_enable": true,
+  "online_enable": true,
+
+  "title": "Premium Login",
+  "descriptions": [
+    "Welcome to Premium Access.",
+    "Enter your password to continue.",
+    "Make sure your device is registered."
+  ],
+
+  "button_login": "Login",
+  "button_admin": "Admin",
+  "button_copy": "Copy ID",
+  "admin_url": "https://t.me/Problem_Zenki",
+
+  "device_section": [
     {
-      "device_id": "591a2a49ce8ca4dc",
-      "username": "dpmods",
-      "password": "12345",
-      "expire_date": "2025-10-20"
+      "device_id": "1234567890abcdef",
+      "password": "1122",
+      "expire_date": "2025-12-31"
     },
     {
       "device_id": "abcdef9876543210",
-      "username": "demo",
-      "password": "demo123",
-      "expire_date": "2026-04-15"
+      "password": "3344",
+      "expire_date": "2026-01-15"
     },
     {
-      "device_id": "testdevice11223344",
-      "username": "user",
-      "password": "pass",
-      "expire_date": "2026-06-01"
-    },
-    {
-      "device_id": "Pro",
-      "username": "Pro",
-      "password": "Pro",
-      "expire_date": "2025-10-29"
+      "device_id": "offline-device",
+      "password": "1234",
+      "expire_date": "2026-01-01"
     }
   ]
 }
